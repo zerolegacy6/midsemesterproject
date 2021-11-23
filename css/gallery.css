@@ -1,6 +1,6 @@
 body
 {
-	background-color:midnightblue;
+	background-color:m;
 	margin:50px;
 	padding:0;
 	font-family: arial bold;
@@ -39,6 +39,8 @@ footer
 	height:150px;
 	text-indent:20px;
 	word-spacing:4px
-
-	
+}
+div {
+	width:1300px;
+	height:5300;
 }
